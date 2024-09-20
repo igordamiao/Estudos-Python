@@ -16,7 +16,7 @@ Este repositório contém exemplos e explicações dos principais fundamentos da
 
 3. [Condicionais](#condicionais)
   * if, elif, else
-4. [Laços de Repetição](#lacos_de_reoeticao)
+4. [Laços de Repetição](#lacos-de-repeticao)
   * for
   * while
 5. [Funções](#funcoes)
@@ -30,7 +30,7 @@ x = 10
 nome = "Python"
 ```
 
-# Tipos de Dados
+## Tipos de Dados
 > Python possui vários tipos de dados nativos que podem ser usados para armazenar diferentes tipos de informação.
 
 *Inteiros*
@@ -82,7 +82,7 @@ pessoa = {"nome": "João", "idade": 30}
 ativo = True
 ```
 
-*Condicionais*
+## Condicionais
 Condicionais são usadas para executar diferentes blocos de código com base em uma condição.
 
 ```python
@@ -94,7 +94,7 @@ else:
     print("Menor que 10")
 ```
 
-**Laços de Repetição**
+## Laços de Repetição
 >Laços de repetição permitem executar blocos de código várias vezes.
 
 *for*
@@ -115,7 +115,7 @@ while contador < 5:
     contador += 1
 ```
 
-*Funções*
+## Funções
 > Funções são blocos de código reutilizáveis que realizam uma tarefa específica.
 
 ```python
@@ -125,7 +125,7 @@ def saudacao(nome):
 saudacao("Python")
 ```
 
-*Módulos e Pacotes*
+## Módulos e Pacotes
 > Módulos são arquivos Python que contêm definições e implementações de funções e variáveis. Pacotes são coleções de módulos.
 
 ```python
