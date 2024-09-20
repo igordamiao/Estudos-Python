@@ -94,7 +94,7 @@ else:
     print("Menor que 10")
 ```
 
-## Laços de Repetição
+## Lacos de Repeticao
 >Laços de repetição permitem executar blocos de código várias vezes.
 
 *for*
@@ -115,7 +115,7 @@ while contador < 5:
     contador += 1
 ```
 
-## Funções
+## Funcoes
 > Funções são blocos de código reutilizáveis que realizam uma tarefa específica.
 
 ```python
@@ -125,7 +125,7 @@ def saudacao(nome):
 saudacao("Python")
 ```
 
-## Módulos e Pacotes
+## Modulos e pacotes
 > Módulos são arquivos Python que contêm definições e implementações de funções e variáveis. Pacotes são coleções de módulos.
 
 ```python
