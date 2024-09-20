@@ -4,7 +4,7 @@
 Este repositório contém exemplos e explicações dos principais fundamentos da linguagem Python. Ele foi criado para ajudar iniciantes e desenvolvedores a entender os conceitos básicos e aplicar Python de maneira eficiente.
 
 **Conteúdo**
-1. [Ir para Instalação do Projeto](#instalacao-do-projeto)
+1. [tipos de dados](#tipos-de-dados)
 2. [Tipos de Dados](#tipos_de_dados)
   * Inteiros
   * Float
@@ -22,7 +22,7 @@ Este repositório contém exemplos e explicações dos principais fundamentos da
 5. [Funções](#funcoes)
 6. [Módulos e Pacotes](#modulos-e-pacotes)
 
-## Instalação do Projeto
+## Tipos de dados
 > Em Python, variáveis são usadas para armazenar dados. Não é necessário declarar o tipo de variável, pois Python é uma linguagem de tipagem dinâmica.
 
 ```python
