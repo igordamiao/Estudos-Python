@@ -4,8 +4,8 @@
 Este repositório contém exemplos e explicações dos principais fundamentos da linguagem Python. Ele foi criado para ajudar iniciantes e desenvolvedores a entender os conceitos básicos e aplicar Python de maneira eficiente.
 
 **Conteúdo**
-1. Variáveis
-2. Tipos de Dados
+1. [Variáveis](#variaveis)
+2. [Tipos de Dados](#tipos_de_dados)
   * Inteiros
   * Float
   * Strings
@@ -14,13 +14,13 @@ Este repositório contém exemplos e explicações dos principais fundamentos da
   * Dicionários
   * Booleanos
 
-3. Condicionais
+3. [Condicionais](#condicionais)
   * if, elif, else
-4. Laços de Repetição
+4. [Laços de Repetição](#lacos_de_reoeticao)
   * for
   * while
-5. Funções
-6. Módulos e Pacotes
+5. [Funções](#funcoes)
+6. [Módulos e Pacotes](#modulos-e-pacotes)
 
 *Variáveis*
 > Em Python, variáveis são usadas para armazenar dados. Não é necessário declarar o tipo de variável, pois Python é uma linguagem de tipagem dinâmica.
