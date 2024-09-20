@@ -5,7 +5,7 @@ Este repositório contém exemplos e explicações dos principais fundamentos da
 
 **Conteúdo**
 1. [Variáveis](#variaveis)
-2. [Tipos de Dados](#tipos_de_dados)
+2. - [Tipos de Dados](#tipos_de_dados)
   * Inteiros
   * Float
   * Strings
