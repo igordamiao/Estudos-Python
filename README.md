@@ -22,7 +22,7 @@ Este repositório contém exemplos e explicações dos principais fundamentos da
 5. [Funções](#funcoes)
 6. [Módulos e Pacotes](#modulos-e-pacotes)
 
-#Variáveis
+## Variáveis
 > Em Python, variáveis são usadas para armazenar dados. Não é necessário declarar o tipo de variável, pois Python é uma linguagem de tipagem dinâmica.
 
 ```python
