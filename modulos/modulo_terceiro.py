@@ -1,4 +1,4 @@
-# pip3 install requests
+# pip3 install requests https://docs.python.org/3/library/index.html, https://docs.python.org/3/library/index.html e https://pypi.org/
 
 print("\Importação e uso de um módulo terceiros")
 import requests
