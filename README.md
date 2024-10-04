@@ -157,5 +157,5 @@ python exemplo.py
 > Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 ***Licença***
-> Este projeto está licenciado sob a [MIT licensed].
+Este projeto está licenciado sob a [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
